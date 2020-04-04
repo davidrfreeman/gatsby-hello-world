@@ -1,11 +1,13 @@
 import React from "react"
 
+import Layout from '../layouts/index'
+
 const BlogPage = () => {
   return (
-    <div>
+    <Layout>
       <h1>Blog</h1>
       <p>Posts will show up here</p>
-    </div>
+    </Layout>
   )
 }
 
