@@ -11,6 +11,7 @@ const IndexPage = () => {
       <p>
         Need a developer? <Link to="/contact">Contact me.</Link>
       </p>
+      <div>A test div</div>
     </Layout>
   )
 }
